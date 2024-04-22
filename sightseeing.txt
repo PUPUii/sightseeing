@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<!-- saved from url=(0070)file:///C:/Users/user/Desktop/html/%E8%A6%B3%E5%85%89/sightseeing.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title></title>
+</head>
+<body background="./sightseeing_files/Nnyg8E0.jpg">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+   background-repeat:no-repeat;
+   background-size:cover;
+   background-attachment:fixed;
+}
+</style>
+
+    <style>
+      li {
+        display: inline-block;
+      }
+    </style>
+  
+  
+<div style="text-align:center;">
+    <ul>
+      <li><a href="file:///C:/Users/user/Desktop/index/index.html"><img src="./sightseeing_files/O98ukHP.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E8%A6%B3%E5%85%89/sightseeing.html"><img src="./sightseeing_files/phnOmAb.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/event.html"><img src="./sightseeing_files/plQN5ro.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%82%B0%E3%83%AB%E3%83%A1/food.html"><img src="./sightseeing_files/YNqDMM6.jpg" width="150" height="150"></a></li>
+      <li><a href="file:///C:/Users/user/Desktop/html/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/enquiry.html"><img src="./sightseeing_files/TBctzdr.jpg" width="150" height="150"></a></li>
+    </ul>
+</div>
+
+<h1 style="text-align:center;font-size:60px">観光</h1>
+
+<h2><a href="https://akitainunosato.jp/publics/index/49/">秋田犬の里</a></h2>
+<style>
+h2{
+  font-size: 40px;
+  color: black;
+  text-align:center;
+　}
+</style>
+
+<div>&nbsp;&nbsp;JR大館駅からわずか徒歩1分の場所にある観光施設、
+秋田犬の里は秋田犬についてその歴史や魅力を学ぶことができるほか、
+秋田犬の展示も行なっており、展示室では、その日によって数頭の秋田犬を見ることができます。</div>
+<style>
+div{
+  font-size: 25px;
+  color: black; 
+}s
+</style>
+
+<center><img src="./sightseeing_files/116Cojb.jpg" alt="centered image" height="350" width="500" border="3">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/AygsP4f.jpg" alt="centered image" height="350" width="500" border="3"></center>
+<br><br>
+
+<h3><a href="https://www.mlit.go.jp/tagengo-db/en/R1-02060.html">田沢湖</a></h3>
+<style>
+h3{
+  font-size: 40px;
+  color: black;
+  text-align:center;
+　}
+</style>
+
+<div>&nbsp;&nbsp;田沢湖は、周囲約20キロメートルのほぼ円形の湖です。
+水深423.4メートル、日本一の深さを誇っています。金色の女性の像「たつこ像」は、
+田沢湖の有名スポット。永遠の若さと美貌を願い、湖神になったとされる辰子姫の
+ブロンズ像です。たつこ像から車で約10分の場所に辰子姫を祀る「御座石神社」の鳥居があり、
+女性に嬉しいパワースポットとしても話題で、美容や縁結びに効果があるとの噂もあります。</div>
+<style>
+div{
+  font-size: 25px;
+  color: black; 
+}
+</style>
+
+<center><img src="./sightseeing_files/fFtOnIo.jpg" alt="centered image" height="350" width="500" border="3">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/cax4ONf.jpg" alt="centered image" height="350" width="350" border="3"></center>
+
+<h4><a href="https://akita-fun.jp/brandnew/29">乳頭温泉郷</a></h4>
+<style>
+h4{
+  font-size: 40px;
+  color: black;
+  text-align:center;
+　}
+</style>
+
+<div>&nbsp;&nbsp;外国人旅行客からも人気の高い乳頭温泉郷。七湯は独自に源泉を持ち、
+その泉質は多種多様で十種類以上の源泉があります。JR新幹線「こまち」に乗って、JR田沢湖駅を目指します。
+田沢湖駅から乳頭温泉郷までは羽後交通バスで40分ほどかかりますが、田沢湖や駒ヶ岳などの美しい自然を眺められるコースなので、
+飽きることはありません。冬になれば里山が真っ白な雪で包まれ、いっそう風情ある景観に。
+日本ならではのものを堪能したい観光客が世界中から訪れていました。</div>
+<style>
+div{
+  font-size: 25px;
+  color: black; 
+}
+</style>
+
+<center><img src="./sightseeing_files/6N3MEEg.jpg" alt="centered image" height="200" width="300" border="2">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/6ntFfXx.jpg" alt="centered image" height="200" width="300" border="2">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/ypVnQY7.jpg" alt="centered image" height="200" width="300" border="2">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/H7xPlk5.jpg" alt="centered image" height="200" width="300" border="2"></center>
+<center><img src="./sightseeing_files/oXhqMF0.jpg" alt="centered image" height="200" width="300" border="2">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/4wLVEzd.jpg" alt="centered image" height="200" width="300" border="2">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/B8L7c5h.jpg" alt="centered image" height="200" width="300" border="2">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/dgbDsgx.jpg" alt="centered image" height="200" width="300" border="2"></center>
+
+<br><br>
+
+<h5><a href="https://web.aiu.ac.jp/">秋田国際教養大学</a></h5>
+<style>
+h5{
+  font-size: 40px;
+  color: black;
+  text-align:center;
+　}
+</style>
+
+<div>&nbsp;&nbsp;国際教養大学といえば、素晴らしい建築美を誇る「24時間365日開館」の中嶋記念図書館や、
+「すべての授業が英語で行われる」「1年間の海外留学が必須」という独自のカリキュラムが有名です。
+国際教養大学図書館は、学生が24時間365日いつでも利用できる大学の学習拠点です。半円形状で段々状の書棚と
+閲覧席は円の中央から見上げるように構成され、たくさんの「知」が用意されている事を体感させ、
+本を探索する楽しさを環境的に提供しています。2014グッドデザイン賞を受賞したことがあります。
+</div>
+<style>
+div{
+  font-size: 25px;
+  color: black; 
+}
+</style>
+
+<center><img src="./sightseeing_files/smiBybK.jpg" alt="centered image" height="350" width="500" border="3">&nbsp;&nbsp;&nbsp;&nbsp;<img src="./sightseeing_files/psvOjYW.jpg" alt="centered image" height="350" width="500" border="3"></center>
+
+
+</body></html>
